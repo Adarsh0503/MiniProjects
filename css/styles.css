@@ -497,3 +497,10 @@ padding: 30px   20px;
 
 
 }
+   @media (max-width: 1040px){
+  .b{
+    height: 60%;
+    width: 67%;
+  }
+  
+}
